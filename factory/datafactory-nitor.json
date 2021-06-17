@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-nitor",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2d54093-7645-4a28-8179-fc786c6a617b",
+		"tenantId": "ad7d7c74-5b96-430f-9018-8799144e7db0"
+	}
+}
